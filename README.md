@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ...
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lferreira07&show_icons=true&theme=tokyonight&locale=en" alt="lferreira07" /></p>
 
