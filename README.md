@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I'm Luís Ferreira</h1>
+<p>👨🏻‍💻 I'm a passionate software engineer with a penchant for crafting immersive and user-centric frontend experiences. My coding journey is a symphony of pixels and lines, where I orchestrate creativity and functionality to bring ideas to life.</p>
+<br>
+<p>🌿 Beyond the screen, I'm a nature enthusiast who finds joy in exploring new corners of the world. Whether I'm trekking through lush forests or strolling along sun-kissed beaches, nature fuels my inspiration and creativity.</p>
+<br>
+<p>🎵 Music is the heartbeat of my work. From coding marathons to bug-fixing sessions, there's always a melody accompanying my keystrokes. I believe in infusing a rhythm into every project, making it not just functional but also a joy to experience.</p>
+<br>
+<p>🌍 Exploring new places is my way of keeping both my code and perspectives fresh. I'm not just a frontend enthusiast; I'm also a travel junkie. Whether it's navigating through the hustle of a city or unwinding in nature's embrace, these adventures fuel my creativity. </p>
+<h1></h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ferreiraluis7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferreiraluis7" height="30" width="40" /></a>
